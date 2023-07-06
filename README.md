@@ -1,12 +1,11 @@
 ### Olá sou Regis Rodrigues 👋
 
-Universitário da Fatec-Franca.
-Formação como técnico em informática pela Etec-Dr Julio Cardoso de Franca.
+Estou fazendo o curso de Análise e Desenvolvimento de Sistemas na Fatec-Franca para aprimorar minhas habilidades na área de tecnologia da informação.
+Formação como técnico em informática pela Etec - Dr. Julio Cardoso de Franca.
 
 ![Regis Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=regisarodrigues&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso:
-
 <div style="display: inline_block">
   <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="arch linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
