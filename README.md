@@ -1,7 +1,8 @@
 ### Olá sou Regis Rodrigues 👋
 
-Estou fazendo o curso de Análise e Desenvolvimento de Sistemas na Fatec-Franca para aprimorar minhas habilidades na área de tecnologia da informação.
-Formação como técnico em informática pela Etec - Dr. Julio Cardoso de Franca.
+Cursando o curso de Análise e Desenvolvimento de Sistemas na Fatec-Franca para aprimorar minhas habilidades na área de tecnologia da informação.
+<br />
+Formação como técnico em informática pela  Etec Doutor Júlio Cardoso Franca .
 
 ![Regis Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=regisarodrigues&show_icons=true&theme=tokyonight)
 
